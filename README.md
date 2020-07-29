@@ -1,2 +1,2 @@
 # QuantumComputing
-Lecture and Lab session of Qiskit Global Summer School 2020
+Lecture and Lab session files of Qiskit Global Summer School 2020
